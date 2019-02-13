@@ -5,7 +5,7 @@ How to install tensorflow-gpu
 2. Install PyCharm Version: 2018.3.4
 3. Open the Anaconda Prompt
 4. type "conda create --name tutorial tensorflow-gpu
-(It will help to read https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc)
+(It will be helped to read https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc)
 5. type "activate tutorial"
 6. type "pip install keras matplotlib"
 

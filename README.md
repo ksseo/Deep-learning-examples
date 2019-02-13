@@ -9,7 +9,7 @@ How to install tensorflow-gpu
 5. type "activate tutorial"
 6. type "pip install keras matplotlib"
 
-optional
+Optional
 7. type "pip install image" for running mnist_acgan.py
 8. type "pip pydot" after then "conda install -n tutorial graphviz" for running variational_autoencoder.py
 

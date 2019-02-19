@@ -1,6 +1,6 @@
 # Deep-learning-examples
 
-How to install tensorflow-gpu on Anaconda, Windows10
+How to install tensorflow-gpu on Anaconda, Windows10 without CUDA installation
 1. Install Anaconda 2018.12 for Windows Installer
 2. Install PyCharm Version: 2018.3.4
 3. Open the Anaconda Prompt
